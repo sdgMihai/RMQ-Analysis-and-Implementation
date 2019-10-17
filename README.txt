@@ -1,4 +1,4 @@
-ID: Gheoace Mihai, 324 CA
+// Copyright Mihai Gheoace
 
 Contents:
 
@@ -44,9 +44,9 @@ clean
 Folder 'in' cu testele de intrare (25 teste)
 
 Fiecare test este numit "testID.in", unde ID reprezinta numarul testului (e.g. test0.in)
-Fiecare test este structurat în felul urmator:
+Fiecare test este structurat Ã®n felul urmator:
 Pe prima linie, N (int - numarul de elemente din secven?a),M nr de interogari N,M <= 10^6
-N elemente (numere întregi - reprezentabile pe 32 biti)
+N elemente (numere Ã®ntregi - reprezentabile pe 32 biti)
 M perechi de numere intregi (x, y) reprezentand pozitii din secventa
 
 Folder 'out' cu testele de ie?ire
